@@ -1,13 +1,14 @@
 # Anastasia
-
 ![Photo](./assets/photo.jpg) 
+
+
 
 ---
 
 |              **Contacts**                                           |
 | ------------------------------------------------------------------ |
 | 💻 [GitHub](https://github.com/tayvrel)                            |
-| 📧 [anastasiavodchits@gmal.com](mailto:anastasiavodchits@gmal.com) |
+| 📧 [anastasiavodchits@gmail.com](mailto:anastasiavodchits@gmal.com) |
 | 📞 +375 (33) 314-66-65                                             |
 
 ---
