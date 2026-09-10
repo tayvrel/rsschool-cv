@@ -1,9 +1,9 @@
 # Anastasia
 
-|![Photo](./assets/photo.jpg) |     
-| ---------------------------- |
+![Photo](./assets/photo.jpg) 
 
 ---
+
 |              **Contacts**                                           |
 | ------------------------------------------------------------------ |
 | 💻 [GitHub](https://github.com/tayvrel)                            |
