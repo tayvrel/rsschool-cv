@@ -136,6 +136,7 @@ header {
 
 .language {
   font-variant: small-caps;
+  color: var(--color-maintext);
   cursor: pointer;
 }
 
@@ -149,16 +150,30 @@ header {
   width: 32px;
   height: 32px;
   padding: 0;
+
+  border: 1px solid transparent;
   border-radius: 50%;
+
   display: flex;
   align-items: center;
   justify-content: center;
+
+  color: var(--color-secondarytext);
   cursor: pointer;
+
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    background-color 0.2s ease;
+}
+
+.theme-btn:hover {
+  color: var(--color-theme-accent);
 }
 
 .theme-btn.active {
-  border: 2px solid var(--color-theme-accent);
-  cursor: default;
+  border-color: var(--color-theme-accent);
+  color: var(--color-theme-accent);
 }
 
 .download {
